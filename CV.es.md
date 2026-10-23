@@ -6,7 +6,7 @@ Medellín, Colombia · Remoto · fabian_casta@hotmail.com · [LinkedIn](https://
 
 ## Perfil
 
-Ingeniero de Sistemas con más de 15 años en desarrollo de software y más de 8 especializado en Odoo (v13–v19, Community y Enterprise). Hoy me enfoco en llevar agentes de IA a sistemas de negocio reales —ERP, CRM, sitios web— con la gobernanza que los hace seguros en producción: políticas de mínimo privilegio, detección de comportamiento anómalo, auditoría a prueba de manipulación y salvaguardas que impiden tocar producción por error. Experiencia en desarrollo y migración de módulos, Odoo.sh y servidores Linux, facturación electrónica (DIAN, SII), Docker, ETL y Datawarehouse, y liderazgo técnico de equipos remotos.
+Ingeniero de Sistemas con más de 15 años en desarrollo de software y más de 8 especializado en Odoo (v13–v20, Community y Enterprise). Hoy me enfoco en llevar agentes de IA a sistemas de negocio reales —ERP, CRM, sitios web— con la gobernanza que los hace seguros en producción: políticas de mínimo privilegio, detección de comportamiento anómalo, auditoría a prueba de manipulación y salvaguardas que impiden tocar producción por error. Experiencia en desarrollo y migración de módulos, Odoo.sh y servidores Linux, facturación electrónica (DIAN, SII), Docker, ETL y Datawarehouse, y liderazgo técnico de equipos remotos.
 
 ## Agentes de IA — proyectos destacados
 
