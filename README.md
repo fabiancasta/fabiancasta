@@ -2,7 +2,7 @@
 
 **Engineering Manager · Odoo Expert · Agentic Engineer**
 
-15+ years building business software, 8+ of them on Odoo (v13–v19, Community and Enterprise). Today I build AI agents that operate real business systems — ERPs, CRMs, websites — and the governance that keeps them safe to run in production.
+15+ years building business software, 8+ of them on Odoo (v13–v20, Community and Enterprise). Today I build AI agents that operate real business systems — ERPs, CRMs, websites — and the governance that keeps them safe to run in production.
 
 Those agents work on live customer data every day, at the companies I work with and at DonPedroFactura.Com, my software factory for Odoo in Latin America. That is why I care as much about what an agent *cannot* do as about what it can.
 
@@ -26,6 +26,6 @@ An MCP server that lets AI agents work inside Odoo — with every tool call poli
 
 I build *with* agents as well as *for* them. Most of my code is written in pair with Claude (Claude Code); commits that were co-authored are labelled as such. My job in that loop is the part that does not delegate well: deciding what must never happen, writing the tests that prove it cannot, and checking — by breaking the code on purpose — that those tests actually fail when the protection is removed.
 
-**Stack:** Python · Odoo 13–19 · Model Context Protocol · Claude API / Claude Code · LangChain / LangGraph · FastAPI · PostgreSQL · Docker · Linux
+**Stack:** Python · Odoo 13–20 · Model Context Protocol · Claude API / Claude Code · LangChain / LangGraph · FastAPI · PostgreSQL · Docker · Linux
 
 📍 Medellín, Colombia · 💼 [LinkedIn](https://www.linkedin.com/in/fabian-castano/) · 🌐 [posdonpedro.com](https://posdonpedro.com)
