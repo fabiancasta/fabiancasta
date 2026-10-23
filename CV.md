@@ -6,7 +6,7 @@ Medellín, Colombia · Remote · fabian_casta@hotmail.com · [LinkedIn](https://
 
 ## Summary
 
-Systems engineer with 15+ years in software development and 8+ years specialised in Odoo (v13–v19, Community and Enterprise). I now focus on bringing AI agents into real business systems — ERPs, CRMs, websites — with the governance that makes them safe in production: least-privilege policy, behavioural anomaly detection, tamper-evident auditing and safeguards that make touching production by mistake impossible. Background in module development and migration, Odoo.sh and Linux servers, e-invoicing (DIAN, SII), Docker, ETL and data warehousing, and technical leadership of remote teams.
+Systems engineer with 15+ years in software development and 8+ years specialised in Odoo (v13–v20, Community and Enterprise). I now focus on bringing AI agents into real business systems — ERPs, CRMs, websites — with the governance that makes them safe in production: least-privilege policy, behavioural anomaly detection, tamper-evident auditing and safeguards that make touching production by mistake impossible. Background in module development and migration, Odoo.sh and Linux servers, e-invoicing (DIAN, SII), Docker, ETL and data warehousing, and technical leadership of remote teams.
 
 ## AI agents — selected work
 
